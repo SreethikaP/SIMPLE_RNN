@@ -1,1 +1,8 @@
-conda create -p venv python
+numpy
+pandas
+streamlit
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+scipy
