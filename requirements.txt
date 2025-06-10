@@ -1,12 +1,7 @@
-numpy
-pandas
 streamlit
 scikit-learn
-matplotlib
-seaborn
-scipy
-tensorflow==2.15.0
-tensorboard
-scikeras
+pandas
+numpy
+
 
 
