@@ -1,8 +1,12 @@
 numpy
 pandas
 streamlit
-tensorflow
 scikit-learn
 matplotlib
 seaborn
 scipy
+tensorflow==2.15.0
+tensorboard
+scikeras
+
+
